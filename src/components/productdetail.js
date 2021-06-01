@@ -1,6 +1,6 @@
 import React from "react";
 
-function Productldetails() {
+function Productdetails() {
   return (
     <div>
       <h1>My Product List</h1>
